@@ -1,0 +1,19 @@
+
+Sprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jack Sheet
+  rotate: false
+  xy: 1, 39
+  size: 899, 64
+  orig: 899, 64
+  offset: 0, 0
+  index: -1
+Bark Twain Sheet
+  rotate: false
+  xy: 1, 1
+  size: 679, 36
+  orig: 679, 36
+  offset: 0, 0
+  index: -1
